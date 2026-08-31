@@ -1,0 +1,6 @@
+# Local environment config (contains secrets)
+.env
+
+# Moodle source (git-cloned by scripts/install.sh) and data root
+/moodle/
+/moodledata/
